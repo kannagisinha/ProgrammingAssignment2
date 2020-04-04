@@ -5,7 +5,7 @@
 ##set- method to set the matrix and it's inverse as NULL
 ##get - returns the matrix, setInverse - method to set inverse of matrix
 ##getInverse - method to get inverse of matrix 
-makeCacheMatrix <- function(m = matrix())
+makeCacheMatrix <- function(q = matrix())
  {
 
     ## Initialize the inverse property
